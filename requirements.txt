@@ -1,3 +1,6 @@
 pip==22.3.1
 setuptools==65.5.1
 wheel==0.38.4
+
+mido~=1.2.10
+pydub~=0.25.1
